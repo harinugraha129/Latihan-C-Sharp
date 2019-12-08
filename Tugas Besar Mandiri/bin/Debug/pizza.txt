@@ -1,0 +1,3 @@
+Lover;444;Medium Simple Lover Pizza;Medium;Simple;Mushrom;69000;
+Lover;80;Large Simple Lover Pizza;Large;Simple;"daging sapi cincang, burger sapi, sosis ayam";109000;
+Lover;80;Medium Sausage Lover Pizza;Medium;Sausage;"daging sapi cincang, burger sapi, sosis ayam";100000;

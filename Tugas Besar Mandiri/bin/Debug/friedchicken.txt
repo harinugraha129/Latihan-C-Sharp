@@ -1,0 +1,3 @@
+Tight;880;Spicy Tight Fried Chicken;23000;true;
+Drumstick;77;Spicy Drumstick Fried Chicken;18000;true;
+wing;88;Spicy wing Fried Chicken;15000;true;

@@ -1,0 +1,3 @@
+Beef;99;Triple Beef Burger With Mushrom ;3;Mushrom;30000;
+Chicken;99;Triple Chicken Burger With Mushrom ;3;Mushrom;15000;
+Fish;77;Triple Fish Burger With Mushrom ;3;Mushrom;24000;
