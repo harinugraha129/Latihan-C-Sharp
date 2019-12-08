@@ -1,0 +1,7 @@
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\obj\Debug\Inheritance Application.csprojResolveAssemblyReference.cache
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\obj\Debug\Inheritance Application.csproj.CoreCompileInputs.cache
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\bin\Debug\Inheritance Application.exe.config
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\bin\Debug\Inheritance Application.exe
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\bin\Debug\Inheritance Application.pdb
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\obj\Debug\Inheritance Application.exe
+D:\01.Dokumen\latihan pemograman\C#\VS 2017\Pertemuan C#\Inheritance Application\Inheritance Application\obj\Debug\Inheritance Application.pdb
