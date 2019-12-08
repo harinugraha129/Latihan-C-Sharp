@@ -1,0 +1,13 @@
+D:\C#\program pertama\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#\program pertama\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#\program pertama\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\C#\program pertama\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\C#\Program Mic VS 2010\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\C#\Program Mic VS 2010\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\C#\Program Mic VS 2010\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#\Program Mic VS 2010\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#\Program Mic VS 2010\Luas Segitiga\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\C#\Program Mic VS 2010\Luas Segitiga\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\C#\Program Mic VS 2010\Luas Segitiga\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C#\Program Mic VS 2010\Luas Segitiga\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C#\Program Mic VS 2010\Luas Segitiga\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

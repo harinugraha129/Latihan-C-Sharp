@@ -1,0 +1,5 @@
+D:\C#\Program Mic VS 2010\Luas Lingkaran\Luas Lingkaran\bin\Debug\Luas Lingkaran.exe
+D:\C#\Program Mic VS 2010\Luas Lingkaran\Luas Lingkaran\bin\Debug\Luas Lingkaran.pdb
+D:\C#\Program Mic VS 2010\Luas Lingkaran\Luas Lingkaran\obj\x86\Debug\Luas Lingkaran.exe
+D:\C#\Program Mic VS 2010\Luas Lingkaran\Luas Lingkaran\obj\x86\Debug\Luas Lingkaran.pdb
+D:\C#\Program Mic VS 2010\Luas Lingkaran\Luas Lingkaran\obj\x86\Debug\Luas Lingkaran.csprojResolveAssemblyReference.cache
